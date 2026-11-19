@@ -3,6 +3,15 @@
   <channel>
     <title>Hivemind</title>
     <item>
+      <title>Version 0.2.5</title>
+      <pubDate>Thu, 19 Nov 2026 17:01:19 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>OpenCode: automatic tickets (Help -&gt; Connect -&gt; Set Up OpenCode); tickets are saved in each project&#x27;s docs/tickets.</p><p>Much lower CPU and memory: no more endless background animation; long notes scroll smoothly.</p><p>Copy Title on notes and tickets; corrected Help and team setup steps.</p>]]></description>
+      <enclosure url="https://github.com/ilivinskyi/hivemind-releases/releases/download/v0.2.5/Hivemind-0.2.5.zip" type="application/octet-stream" sparkle:edSignature="Hpg3EIlGPAPndmUDviTYp9aP2HJB3lqfzdCy2f1joEJ5/LDmyDVbSTEecMo0knkcgjIt0Ui6/QQkRxyZrp8yBw==" length="14765464"/>
+    </item>
+    <item>
       <title>Version 0.2.4</title>
       <pubDate>Thu, 19 Nov 2026 15:53:56 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
