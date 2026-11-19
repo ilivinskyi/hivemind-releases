@@ -3,6 +3,15 @@
   <channel>
     <title>Hivemind</title>
     <item>
+      <title>Version 0.2.4</title>
+      <pubDate>Thu, 19 Nov 2026 15:53:56 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>MCP sessions survive Hivemind restarts and updates; agents no longer hang after an update.</p><p>Long notes no longer block other writes, and searches stay fast while a project indexes.</p><p>Agents can use paths without vault/ and see which projects are open.</p>]]></description>
+      <enclosure url="https://github.com/ilivinskyi/hivemind-releases/releases/download/v0.2.4/Hivemind-0.2.4.zip" type="application/octet-stream" sparkle:edSignature="fcFdhUVQ7soyD00KiTuM1ZS6FXbVoJ/oLnO5tYhQwNy5cckpm7dNhi5+92Jp9kHpF8Tmq20Tk0FCfpms1qvnBw==" length="14720243"/>
+    </item>
+    <item>
       <title>Version 0.2.3</title>
       <pubDate>Thu, 19 Nov 2026 13:36:44 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
