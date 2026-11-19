@@ -3,6 +3,15 @@
   <channel>
     <title>Hivemind</title>
     <item>
+      <title>Version 0.2.7</title>
+      <pubDate>Thu, 19 Nov 2026 17:56:48 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Code and text files open in Hivemind: Java, Python, YAML, JSON, logs and more, with syntax highlighting in every theme.</p><p>Edit them in a plain-text editor that saves exactly what you typed and keeps the file&#x27;s line endings.</p><p>Notes is now called Documents.</p>]]></description>
+      <enclosure url="https://github.com/ilivinskyi/hivemind-releases/releases/download/v0.2.7/Hivemind-0.2.7.zip" type="application/octet-stream" sparkle:edSignature="8imgwvGXbdPK4H+FRoJkPzfRDV7cKzMXIe5+DBcPg9vZg8zSMdSCUKr3zaKTmERGc8HjF8BJ/hMuPMUBcTjwCA==" length="14754047"/>
+    </item>
+    <item>
       <title>Version 0.2.6</title>
       <pubDate>Thu, 19 Nov 2026 17:14:10 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
