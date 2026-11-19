@@ -3,6 +3,15 @@
   <channel>
     <title>Hivemind</title>
     <item>
+      <title>Version 0.2.8</title>
+      <pubDate>Thu, 19 Nov 2026 22:44:06 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>- Doc Health screen: agents report wrong, outdated, missing or unclear docs, and you resolve them in the app.</p><p>- Doc Health also shows searches that found nothing good (missing docs), the most used docs, and near-duplicate passages.</p><p>- A warning before you edit a file someone changed on the remote.</p><p>- The document header stays on top while the body scrolls.</p><p>- Folder tiles wrap onto more lines.</p><p>- Switching projects no longer shows the previous project&#x27;s documents, and backlinks only come from documents that really link here.</p><p>- Long titles no longer push the window content under the toolbar.</p>]]></description>
+      <enclosure url="https://github.com/ilivinskyi/hivemind-releases/releases/download/v0.2.8/Hivemind-0.2.8.zip" type="application/octet-stream" sparkle:edSignature="8WtSIMjiQy+QTxs8QR9E7dtYfwu7BemCPsJ57SgzxLRzLwZ9JHeIZCm1WyWn/a/zV7aleSe6O4EPZYDYzSNXAg==" length="14930070"/>
+    </item>
+    <item>
       <title>Version 0.2.7</title>
       <pubDate>Thu, 19 Nov 2026 17:56:48 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
