@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Hivemind</title>
+    <item>
+      <title>Version 0.2.2</title>
+      <pubDate>Thu, 19 Nov 2026 13:27:30 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Updates now come from a public releases repository, so no GitHub token is needed. The saved token is removed.</p><p>Private notes were removed from the app; notes marked private elsewhere stay hidden from agents.</p>]]></description>
+      <enclosure url="https://github.com/ilivinskyi/hivemind-releases/releases/download/v0.2.2/Hivemind-0.2.2.zip" type="application/octet-stream" sparkle:edSignature="n3XvNeXeOjob7ZtgpphBmqBrosLvY741PGnEqmGyIUx7CeFTZ78Wt4fXGrgHJIc0hw7rhGWiLFhWCUYdvUDdBg==" length="14699870"/>
+    </item>
+  </channel>
+</rss>
