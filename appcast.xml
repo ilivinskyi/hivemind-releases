@@ -3,6 +3,15 @@
   <channel>
     <title>Hivemind</title>
     <item>
+      <title>Version 0.2.9</title>
+      <pubDate>Fri, 20 Nov 2026 19:34:47 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Save (⌘S) keeps you in the editor on the saved version; Done closes it.</li><li>Nothing typed while a save is running is lost any more.</li><li>Dragging a file onto another project&#x27;s folder no longer moves that project&#x27;s file with the same path.</li><li>Sync, push, conflict resolution and branch switches of one project no longer run at the same time.</li><li>Adding or closing projects quickly no longer leaves a second indexer running.</li><li>Git no longer hangs on long error output, and the server switch no longer reports a busy port during start.</li></ul>]]></description>
+      <enclosure url="https://github.com/ilivinskyi/hivemind-releases/releases/download/v0.2.9/Hivemind-0.2.9.zip" type="application/octet-stream" sparkle:edSignature="Sq4X+DLh9WhNWy+7t3wnNnIjTa7r2Y7eeZqG74nT9RBdXXhpSBhUx+8QSiZ/fvUKX13p2qrreNTXiqyUTAGeAA==" length="14988897"/>
+    </item>
+    <item>
       <title>Version 0.2.8</title>
       <pubDate>Thu, 19 Nov 2026 22:44:06 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
