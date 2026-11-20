@@ -3,6 +3,15 @@
   <channel>
     <title>Hivemind</title>
     <item>
+      <title>Version 0.2.10</title>
+      <pubDate>Fri, 20 Nov 2026 22:29:30 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Faster while agents write: changes are picked up in one pass, and the Journal reads only the last month.</li><li>Typing in long documents no longer slows down.</li><li>Settings such as private documents, auto-commit and the time zone apply at once, no restart needed.</li><li>New Project menu: Sync Now (⌘R), Push, New Branch, Open Pull Request and Start/Stop Server.</li><li>Better VoiceOver labels, Reduce Motion support, and error messages that say what failed.</li><li>MCP clients can run several requests at once, and a slow write is never sent twice.</li></ul>]]></description>
+      <enclosure url="https://github.com/ilivinskyi/hivemind-releases/releases/download/v0.2.10/Hivemind-0.2.10.zip" type="application/octet-stream" sparkle:edSignature="dP9Yw7rAO8FmP1t0UDvoCxRMtCRdaCTGerdr1VGjnsmZpG8WPyknrpoLVXFOhyVMOiLMvLO3WSeKzyn4iOUGAA==" length="15017956"/>
+    </item>
+    <item>
       <title>Version 0.2.9</title>
       <pubDate>Fri, 20 Nov 2026 19:34:47 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
